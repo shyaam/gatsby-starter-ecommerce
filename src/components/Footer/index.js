@@ -3,17 +3,17 @@ import {Link} from 'gatsby'
 import {Segment, Container, Grid, List, Header} from 'semantic-ui-react'
 
 const twitterLink = (
-  <a href="https://twitter.com/parmsang" alt="twitter link">
+  <a href="https://twitter.com/shyaam" alt="twitter link">
     Twitter
   </a>
 )
 const facebookLink = (
-  <a href="https://facebook.com/" alt="facebook link">
+  <a href="https://facebook.com/shyaam.deshmukh" alt="facebook link">
     Facebook
   </a>
 )
 const emailLink = (
-  <a href="mailto:john@doe.com" alt="email link">
+  <a href="mailto:joe@email.com" alt="email link">
     Email
   </a>
 )
